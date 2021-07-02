@@ -1,4 +1,4 @@
-#Seção de scrits criados em php
+Alguns scripts criados por mim em php
 
 *csv_filter.php
 
