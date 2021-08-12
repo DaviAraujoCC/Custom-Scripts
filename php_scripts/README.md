@@ -1,4 +1,4 @@
-# Lista de scripts/funções
+# Scripts/Functions List
 
 *csv_filter.php
 
