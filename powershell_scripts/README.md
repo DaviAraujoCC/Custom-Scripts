@@ -15,4 +15,5 @@ Script to set background for users downloading the image from an URL
 Script to rename the default computer name to the corresponding sector
 
 <b>auto_insert.ps1</b>
-Simple script made for runbooks (automation accounts) in azure to make users in a csv to be added in a group automatically
+
+Simple script made for runbooks (automation accounts) in azure to make users in a csv to be added in a group automatically, with a need of a service principal registered in AD and file share on storage account
