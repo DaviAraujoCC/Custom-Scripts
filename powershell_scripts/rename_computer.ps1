@@ -15,7 +15,7 @@ if ($nome -like "DESKTOP") {
 }
 if ($nome -like "LAPTOP") {
 
-    $novonome="$($sector)-$($code)"
+    $newname="$($sector)-$($code)"
 
     Rename-Computer -NewName $newname
     
