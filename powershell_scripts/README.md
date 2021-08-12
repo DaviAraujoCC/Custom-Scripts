@@ -13,3 +13,6 @@ Script to set background for users downloading the image from an URL
 <b>rename_computer.ps1</b>
 
 Script to rename the default computer name to the corresponding sector
+
+<b>auto_insert.ps1</b>
+Simple script made for runbooks (automation accounts) in azure to make users in a csv to be added in a group automatically
