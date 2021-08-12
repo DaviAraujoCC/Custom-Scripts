@@ -2,4 +2,4 @@
 
 *csv_filter.php
 
-Script criado com finalidade para resgate de informações no csv e inserção automatica dos dados na tabela de um banco MYSQL através de um conector PDO e separação de cada coluna do csv como um dado no array.
+Script created with the purpose of retrieving information in csv and automatically inserting data in a MYSQL database table through a PDO connector and separating each column of csv as data in the array.
