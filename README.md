@@ -1,3 +1,3 @@
 # Scripts
 
-Repositório criado para depositar scripts criados em php e python com proposito de automatizar alguns processos internos
+Repository to store some scripts that i create to automate my infrastructure (in progress..)
